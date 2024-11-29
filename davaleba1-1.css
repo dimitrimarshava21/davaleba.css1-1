@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+#canteiner {
+    width: 1920px;
+    height: 1243px;
+    width: 100%;
+}
+
+#last-sumer {
+    text-align: center;
+    color: #8E26C0;
+    font-size: 64px;
+}
+
+
+#button {
+    padding: 16px 40px;
+    gap: 10px;
+    background: #FFE8E8;
+    border: none;
+    border-radius: 8px;
+    color: #F00;
+    font-size: 16px;
+    margin-top: 24px;
+}
+
+#last-sumer-button {
+    color: #85647B;
+    background-color: #fff;
+    padding: 16px 40px;
+    margin-top: 24px;
+    font-size: 16px;
+    width: 450px;
+    border-right: 3px solid #05F;
+    border-left: 2px solid #C11574;
+    border-bottom: 2px solid #8E26C0;
+    border-top: 2px solid green;
+}
+
+#last-button {
+    margin-top: 24px;
+    color: #414651;
+    padding: 16px 40px;
+    align-items: center;
+    background: #FFE8E8;
+    border: none;
+    border-radius: 8px;
+    width: 490px;
+}
+
+#last-sumer-discount {
+    justify-content: center;
+    color: #FF4405;
+    gap: 4px;
+    text-decoration-line: underline;
+    font-size: 16px;
+
+}
+
+#long-shop-button {
+    padding: 16px 40px;
+    margin-top: 24px;
+    border: 2px solid #3538CD;
+    background: #FFF;
+
+}
+
+#shop-button {
+    color: #0064CE;
+    font-family: Lato;
+    font-size: 16px;
+}
+
+#discounts-off-img {
+    width: 250px;
+    flex-shrink: 0;
+    margin-top: 45px;
+}
